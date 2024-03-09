@@ -196,5 +196,5 @@ const RowCard = styled.div`
 
 const ColCard = styled.div`
   width: 170px;
-  height: 340px;
+  height: 320px;
 `;
