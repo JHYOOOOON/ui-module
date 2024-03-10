@@ -34,7 +34,7 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not ie < 10"
+      "not ie < 7"
     ],
     "development": [
       "last 1 chrome version",
